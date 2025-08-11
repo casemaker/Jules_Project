@@ -39,8 +39,8 @@ This project is a trading robot that connects to Interactive Brokers (IBKR) and 
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/casemaker/Jules_Project.git
+    cd Jules_Project
     ```
 
 2.  **Install dependencies:**
